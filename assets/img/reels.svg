@@ -12,8 +12,8 @@
       <rect x="-24" y="-51" width="24" height="3" fill="#7d8b99"/>
     </g>
   </defs>
-  <rect width="400" height="520" fill="#2D9CDB"/>
-  <rect width="400" height="520" fill="#174A8B" opacity=".55"/>
+  <rect width="400" height="520" fill="#E0414B"/>
+  <rect width="400" height="520" fill="#9B1B23" opacity=".55"/>
   <use href="#reel" x="90" y="90"/>
   <use href="#reel" x="250" y="60"/>
   <use href="#reel" x="330" y="210"/>
